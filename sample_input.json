@@ -1,1 +1,4 @@
-
+[
+{"AnnualIncome": 60, "SpendingScore": 70, "TotalPurchases": 35, "AvgPurchaseValue": 120.5, "Recency": 10},
+{"AnnualIncome": 25, "SpendingScore": 20, "TotalPurchases": 5, "AvgPurchaseValue": 45.0, "Recency": 120}
+]
